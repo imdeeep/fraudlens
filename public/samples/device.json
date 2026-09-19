@@ -1,0 +1,819 @@
+[
+  {
+    "phone_number": "+919000000001",
+    "imei": "356789012345678",
+    "imsi": "404010123456789",
+    "mac_address": "AA:BB:CC:11:22:33",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000002",
+    "imei": "356789012345678",
+    "imsi": "404010987654321",
+    "mac_address": "AA:BB:CC:44:55:66",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000003",
+    "imei": "356789100000003",
+    "imsi": "404010100000003",
+    "mac_address": "AA:BB:09:03:21:33",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000004",
+    "imei": "356789100000004",
+    "imsi": "404010100000004",
+    "mac_address": "AA:BB:12:04:28:44",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000005",
+    "imei": "356789100000005",
+    "imsi": "404010100000005",
+    "mac_address": "AA:BB:15:05:35:55",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000006",
+    "imei": "356789100000006",
+    "imsi": "404010100000006",
+    "mac_address": "AA:BB:18:06:42:66",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000007",
+    "imei": "356789100000007",
+    "imsi": "404010100000007",
+    "mac_address": "AA:BB:21:07:49:77",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000008",
+    "imei": "356789100000008",
+    "imsi": "404010100000008",
+    "mac_address": "AA:BB:24:08:56:88",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000009",
+    "imei": "356789100000009",
+    "imsi": "404010100000009",
+    "mac_address": "AA:BB:27:09:63:09",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000010",
+    "imei": "356789100000010",
+    "imsi": "404010100000010",
+    "mac_address": "AA:BB:30:10:70:20",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000011",
+    "imei": "356789100000011",
+    "imsi": "404010100000011",
+    "mac_address": "AA:BB:33:11:77:31",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000012",
+    "imei": "356789100000012",
+    "imsi": "404010100000012",
+    "mac_address": "AA:BB:36:12:84:42",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000013",
+    "imei": "356789100000013",
+    "imsi": "404010100000013",
+    "mac_address": "AA:BB:39:13:01:53",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000014",
+    "imei": "356789100000014",
+    "imsi": "404010100000014",
+    "mac_address": "AA:BB:42:14:08:64",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000015",
+    "imei": "356789100000015",
+    "imsi": "404010100000015",
+    "mac_address": "AA:BB:45:15:15:75",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000016",
+    "imei": "356789100000016",
+    "imsi": "404010100000016",
+    "mac_address": "AA:BB:48:16:22:86",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000017",
+    "imei": "356789100000017",
+    "imsi": "404010100000017",
+    "mac_address": "AA:BB:51:17:29:07",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000018",
+    "imei": "356789100000018",
+    "imsi": "404010100000018",
+    "mac_address": "AA:BB:54:18:36:18",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000019",
+    "imei": "356789100000019",
+    "imsi": "404010100000019",
+    "mac_address": "AA:BB:57:19:43:29",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000020",
+    "imei": "356789100000020",
+    "imsi": "404010100000020",
+    "mac_address": "AA:BB:60:20:50:40",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000021",
+    "imei": "356789100000021",
+    "imsi": "404010100000021",
+    "mac_address": "AA:BB:63:21:57:51",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000022",
+    "imei": "356789100000022",
+    "imsi": "404010100000022",
+    "mac_address": "AA:BB:66:22:64:62",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000023",
+    "imei": "356789100000023",
+    "imsi": "404010100000023",
+    "mac_address": "AA:BB:69:23:71:73",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000024",
+    "imei": "356789100000024",
+    "imsi": "404010100000024",
+    "mac_address": "AA:BB:72:24:78:84",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000025",
+    "imei": "356789100000025",
+    "imsi": "404010100000025",
+    "mac_address": "AA:BB:75:25:85:05",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000026",
+    "imei": "356789100000026",
+    "imsi": "404010100000026",
+    "mac_address": "AA:BB:78:26:02:16",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000027",
+    "imei": "356789100000027",
+    "imsi": "404010100000027",
+    "mac_address": "AA:BB:81:27:09:27",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000028",
+    "imei": "356789100000028",
+    "imsi": "404010100000028",
+    "mac_address": "AA:BB:84:28:16:38",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000029",
+    "imei": "356789100000029",
+    "imsi": "404010100000029",
+    "mac_address": "AA:BB:87:29:23:49",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000030",
+    "imei": "356789100000030",
+    "imsi": "404010100000030",
+    "mac_address": "AA:BB:00:30:30:60",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000031",
+    "imei": "356789100000031",
+    "imsi": "404010100000031",
+    "mac_address": "AA:BB:03:31:37:71",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000032",
+    "imei": "356789100000032",
+    "imsi": "404010100000032",
+    "mac_address": "AA:BB:06:32:44:82",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000033",
+    "imei": "356789100000033",
+    "imsi": "404010100000033",
+    "mac_address": "AA:BB:09:33:51:03",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000034",
+    "imei": "356789100000034",
+    "imsi": "404010100000034",
+    "mac_address": "AA:BB:12:34:58:14",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000035",
+    "imei": "356789100000035",
+    "imsi": "404010100000035",
+    "mac_address": "AA:BB:15:35:65:25",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000036",
+    "imei": "356789100000036",
+    "imsi": "404010100000036",
+    "mac_address": "AA:BB:18:36:72:36",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000037",
+    "imei": "356789100000037",
+    "imsi": "404010100000037",
+    "mac_address": "AA:BB:21:37:79:47",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000038",
+    "imei": "356789100000038",
+    "imsi": "404010100000038",
+    "mac_address": "AA:BB:24:38:86:58",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000039",
+    "imei": "356789100000039",
+    "imsi": "404010100000039",
+    "mac_address": "AA:BB:27:39:03:69",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000040",
+    "imei": "356789100000040",
+    "imsi": "404010100000040",
+    "mac_address": "AA:BB:30:40:10:80",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000041",
+    "imei": "356789100000041",
+    "imsi": "404010100000041",
+    "mac_address": "AA:BB:33:41:17:01",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000042",
+    "imei": "356789100000042",
+    "imsi": "404010100000042",
+    "mac_address": "AA:BB:36:42:24:12",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000043",
+    "imei": "356789100000043",
+    "imsi": "404010100000043",
+    "mac_address": "AA:BB:39:43:31:23",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000044",
+    "imei": "356789100000044",
+    "imsi": "404010100000044",
+    "mac_address": "AA:BB:42:44:38:34",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000045",
+    "imei": "356789100000045",
+    "imsi": "404010100000045",
+    "mac_address": "AA:BB:45:45:45:45",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000046",
+    "imei": "356789100000046",
+    "imsi": "404010100000046",
+    "mac_address": "AA:BB:48:46:52:56",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000047",
+    "imei": "356789100000047",
+    "imsi": "404010100000047",
+    "mac_address": "AA:BB:51:47:59:67",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000048",
+    "imei": "356789100000048",
+    "imsi": "404010100000048",
+    "mac_address": "AA:BB:54:48:66:78",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000049",
+    "imei": "356789100000049",
+    "imsi": "404010100000049",
+    "mac_address": "AA:BB:57:49:73:89",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000050",
+    "imei": "356789100000050",
+    "imsi": "404010100000050",
+    "mac_address": "AA:BB:60:50:80:10",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000051",
+    "imei": "356789100000051",
+    "imsi": "404010100000051",
+    "mac_address": "AA:BB:63:51:87:21",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000052",
+    "imei": "356789100000052",
+    "imsi": "404010100000052",
+    "mac_address": "AA:BB:66:52:04:32",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000053",
+    "imei": "356789100000053",
+    "imsi": "404010100000053",
+    "mac_address": "AA:BB:69:53:11:43",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000054",
+    "imei": "356789100000054",
+    "imsi": "404010100000054",
+    "mac_address": "AA:BB:72:54:18:54",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000055",
+    "imei": "356789100000055",
+    "imsi": "404010100000055",
+    "mac_address": "AA:BB:75:55:25:65",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000056",
+    "imei": "356789100000056",
+    "imsi": "404010100000056",
+    "mac_address": "AA:BB:78:56:32:76",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000057",
+    "imei": "356789100000057",
+    "imsi": "404010100000057",
+    "mac_address": "AA:BB:81:57:39:87",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000058",
+    "imei": "356789100000058",
+    "imsi": "404010100000058",
+    "mac_address": "AA:BB:84:58:46:08",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000059",
+    "imei": "356789100000059",
+    "imsi": "404010100000059",
+    "mac_address": "AA:BB:87:59:53:19",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000060",
+    "imei": "356789100000060",
+    "imsi": "404010100000060",
+    "mac_address": "AA:BB:00:60:60:30",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000061",
+    "imei": "356789100000061",
+    "imsi": "404010100000061",
+    "mac_address": "AA:BB:03:61:67:41",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000062",
+    "imei": "356789100000062",
+    "imsi": "404010100000062",
+    "mac_address": "AA:BB:06:62:74:52",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000063",
+    "imei": "356789100000063",
+    "imsi": "404010100000063",
+    "mac_address": "AA:BB:09:63:81:63",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000064",
+    "imei": "356789100000064",
+    "imsi": "404010100000064",
+    "mac_address": "AA:BB:12:64:88:74",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000065",
+    "imei": "356789100000065",
+    "imsi": "404010100000065",
+    "mac_address": "AA:BB:15:65:05:85",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000066",
+    "imei": "356789100000066",
+    "imsi": "404010100000066",
+    "mac_address": "AA:BB:18:66:12:06",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000067",
+    "imei": "356789100000067",
+    "imsi": "404010100000067",
+    "mac_address": "AA:BB:21:67:19:17",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000068",
+    "imei": "356789100000068",
+    "imsi": "404010100000068",
+    "mac_address": "AA:BB:24:68:26:28",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000069",
+    "imei": "356789100000069",
+    "imsi": "404010100000069",
+    "mac_address": "AA:BB:27:69:33:39",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000070",
+    "imei": "356789100000070",
+    "imsi": "404010100000070",
+    "mac_address": "AA:BB:30:70:40:50",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000071",
+    "imei": "356789100000071",
+    "imsi": "404010100000071",
+    "mac_address": "AA:BB:33:71:47:61",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000072",
+    "imei": "356789100000072",
+    "imsi": "404010100000072",
+    "mac_address": "AA:BB:36:72:54:72",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000073",
+    "imei": "356789100000073",
+    "imsi": "404010100000073",
+    "mac_address": "AA:BB:39:73:61:83",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000074",
+    "imei": "356789100000074",
+    "imsi": "404010100000074",
+    "mac_address": "AA:BB:42:74:68:04",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000075",
+    "imei": "356789100000075",
+    "imsi": "404010100000075",
+    "mac_address": "AA:BB:45:75:75:15",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  },
+  {
+    "phone_number": "+919000000076",
+    "imei": "356789100000076",
+    "imsi": "404010100000076",
+    "mac_address": "AA:BB:48:76:82:26",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000077",
+    "imei": "356789100000077",
+    "imsi": "404010100000077",
+    "mac_address": "AA:BB:51:77:89:37",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000078",
+    "imei": "356789100000078",
+    "imsi": "404010100000078",
+    "mac_address": "AA:BB:54:78:06:48",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000079",
+    "imei": "356789100000079",
+    "imsi": "404010100000079",
+    "mac_address": "AA:BB:57:79:13:59",
+    "device_model": "Android-X1",
+    "installed_apps": [
+      "com.example.wallet"
+    ]
+  },
+  {
+    "phone_number": "+919000000080",
+    "imei": "356789100000080",
+    "imsi": "404010100000080",
+    "mac_address": "AA:BB:60:80:20:70",
+    "device_model": "Android-X2",
+    "installed_apps": [
+      "com.example.wallet",
+      "com.example.remote"
+    ]
+  }
+]
